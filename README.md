@@ -4,4 +4,4 @@
 + CRNN_Chinese_Characters_Rec https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec/tree/master  https://blog.csdn.net/Sierkinhane/article/details/82857572
 + CHINESE-OCR https://github.com/xiaofengShi/CHINESE-OCR
 ## demo1.0
-+ 
++ https://github.com/Gorden-GitHub/Text_Recognize1.0
