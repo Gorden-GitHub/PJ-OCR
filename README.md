@@ -3,5 +3,6 @@
 + 中文ocr 数据集 https://blog.csdn.net/javastart/article/details/104069709
 + CRNN_Chinese_Characters_Rec https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec/tree/master  https://blog.csdn.net/Sierkinhane/article/details/82857572
 + CHINESE-OCR https://github.com/xiaofengShi/CHINESE-OCR
++ chinese_ocr https://github.com/YCG09/chinese_ocr
 ## demo1.0
 + https://github.com/Gorden-GitHub/Text_Recognize1.0
