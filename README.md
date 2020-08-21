@@ -7,3 +7,5 @@
 + chineseocr_lite https://github.com/ouyanghuiyu/chineseocr_lite
 ## demo1.0
 + https://github.com/Gorden-GitHub/Text_Recognize1.0
+## demo2.0
++ https://github.com/Gorden-GitHub/Text_Recognize2.0
